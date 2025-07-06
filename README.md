@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**vadimgetta/vadimgetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Vadim 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Frontend Developer | React · Next.js · TypeScript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- ⚛️ React
+- ⚡ Next.js
+- 📘 TypeScript
+- 🎨 CSS Modules, SCSS
+- 📦 Webpack, Vite
+- 🌐 REST, GraphQL
+- 🔀 React Router DOM
+- 🟢 Node.js
+- 📁 Git, GitHub
+
+---
+
+### 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hellovados@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/hello_iam_vadik)
+
