@@ -9,7 +9,8 @@
 ---
 
 ### 🛠️ Tech Stack
-
+- ✨ JavaScript
+- 🎨 HTML, CSS
 - ⚛️ React
 - ⚡ Next.js
 - 📘 TypeScript
